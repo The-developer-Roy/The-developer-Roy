@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhadeep</h1>
 <h3 align="center">I'm a full-stack developer who enjoys building fast, scalable, and user-focused web applications. I focus on creating complete products—clean architecture, efficient APIs, and polished UIs.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-developer-roy&label=Profile%20views&color=0e75b6&style=flat" alt="the-developer-roy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devsubhadeepoy&label=Profile%20views&color=0e75b6&style=flat" alt="devsubhadeeproy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-developer-roy" alt="the-developer-roy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsubhadeeproy" alt="devsubhadeep" /></a> </p>
 
 - 🌱 I’m currently learning **more about advance web dev**
 
